@@ -2,6 +2,8 @@
 
 Soy una estudiante apasionada de Análisis de Sistemas, actualmente cursando el quinto semestre en Valle Grande. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos en proyectos interesantes. Estoy siempre en busca de nuevas oportunidades para aprender y mejorar mis habilidades.
 
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FValeryChumpitaz%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
+
 ## 📚 Sobre Mí
 
 - 👩‍💻 **Estudiante de Análisis de Sistemas**: Apasionada por la tecnología y la programación.
