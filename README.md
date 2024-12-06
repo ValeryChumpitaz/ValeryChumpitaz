@@ -1,6 +1,7 @@
 # 👋 **¡Hola, soy Valery Giselle Chumpitaz Caycho!**
 
-Soy una **estudiante apasionada de Análisis de Sistemas**, actualmente cursando el Sexto semestre en **Valle Grande**. Me encanta aprender nuevas tecnologías y disfruto aplicar mis conocimientos en proyectos innovadores. Siempre estoy en busca de nuevas oportunidades para crecer y mejorar mis habilidades. 🌱🚀
+
+Soy una **estudiante apasionada de Análisis de Sistemas**, actualmente cursando el **Sexto semestre** en **Valle Grande**. Me encanta aprender nuevas tecnologías y disfruto aplicar mis conocimientos en proyectos innovadores. Siempre estoy en busca de nuevas oportunidades para crecer y mejorar mis habilidades. 🌱🚀
 
 ![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FValeryChumpitaz%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
 
@@ -12,7 +13,9 @@ Soy una **estudiante apasionada de Análisis de Sistemas**, actualmente cursando
 - 📚 **Sexto Semestre en Valle Grande**: Comprometida con mi educación y el crecimiento académico.
 - 🚀 **Aprendiz Constante**: Siempre en busca de aprender nuevas tecnologías y aplicar mis conocimientos en proyectos emocionantes.
 - 💡 **Buscadora de Oportunidades**: Abierta a nuevas experiencias y desafíos que me permitan mejorar mis habilidades.
-  
+
+---
+
 ## 🧠 **Áreas de Especialización**
 
 - Desarrollo de aplicaciones web
@@ -65,16 +68,11 @@ Aquí te muestro un análisis dinámico de mi actividad en GitHub:
 ### 🧑‍💻 **Lenguajes Más Usados**
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryChumpitaz&layout=compact&theme=radical)
 
-
 ### 📊 **Estadísticas Generales de GitHub**
 ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ValeryChumpitaz&show_icons=true&theme=radical)
 
-
-
 ### 🔥 **Racha de Commits**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValeryChumpitaz&theme=radical)
-
-
 
 ---
 
@@ -85,13 +83,16 @@ Si te gustaría saber más sobre mí o trabajar juntos, aquí están mis datos d
 - **GitHub**: [ValeryChumpitaz](https://github.com/ValeryChumpitaz)
 - **LinkedIn**: [Valery Giselle Chumpitaz Caycho](https://www.linkedin.com/in/valery-giselle-chumpitaz-caycho-142261238/)
 - **Email**: [valery.chumpitaz@vallegrande.edu.pe](mailto:valery.chumpitaz@vallegrande.edu.pe)
-  
+
+---
+
 ## 📱 **Sígueme en redes sociales**
 
 - **Twitter**: [@ValeryTech](https://twitter.com/ValeryTech)
 - **StackOverflow**: [ValeryChumpitaz](https://stackoverflow.com/users/valerychumpitaz)
 
 ---
+
 ## 🙏 **Agradecimientos**
 
 Gracias a todos los mentores, colegas y a la comunidad de desarrollo por el apoyo constante. ¡Sigo aprendiendo y creciendo gracias a ustedes!
