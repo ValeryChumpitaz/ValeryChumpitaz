@@ -67,6 +67,7 @@ Aquí te comparto algunos de los proyectos en los que he trabajado con dedicaci�
 ## 🔑​ Seguridad
 
 | Seguridad | Descripción |
+|--------------|------------|
 | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Plataforma de backend como servicio |
 | ![Keycloak](https://img.shields.io/badge/-Keycloak-000000?logo=keycloak&logoColor=white) | Gestión de identidades y accesos |
 
