@@ -1,7 +1,13 @@
 # 👋 **¡Hola, soy Valery Giselle Chumpitaz Caycho!**
 
 
-Soy una **estudiante apasionada de Análisis de Sistemas**, actualmente cursando el **Sexto semestre** en **Valle Grande**. Me encanta aprender nuevas tecnologías y disfruto aplicar mis conocimientos en proyectos innovadores. Siempre estoy en busca de nuevas oportunidades para crecer y mejorar mis habilidades. 🌱🚀
+💻 Analista de Sistemas | Apasionada por la Tecnología
+
+Egresada de la carrera de Análisis de Sistemas en Valle Grande, ahora comparto mi pasión por el desarrollo de software como docente. Me especializo en arquitectura de microservicios, desarrollo web con Angular y Spring Boot, y bases de datos NoSQL.
+
+🚀 Disfruto creando soluciones escalables, implementando buenas prácticas de desarrollo y explorando nuevas tecnologías. Además, me interesa la seguridad en aplicaciones, con experiencia en Keycloak y Firebase.
+
+📚 En constante aprendizaje y dispuesta a colaborar en proyectos innovadores. ¡Construyamos juntos el futuro de la tecnología!
 
 ![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FValeryChumpitaz%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
 
@@ -9,10 +15,9 @@ Soy una **estudiante apasionada de Análisis de Sistemas**, actualmente cursando
 
 ## 📚 **Sobre Mí**
 
-- 👩‍💻 **Estudiante de Análisis de Sistemas**: Me apasiona la tecnología, la programación y la resolución de problemas complejos.
-- 📚 **Sexto Semestre en Valle Grande**: Comprometida con mi educación y el crecimiento académico.
-- 🚀 **Aprendiz Constante**: Siempre en busca de aprender nuevas tecnologías y aplicar mis conocimientos en proyectos emocionantes.
-- 💡 **Buscadora de Oportunidades**: Abierta a nuevas experiencias y desafíos que me permitan mejorar mis habilidades.
+- 👩‍💻 **Egresada de Análisis de Sistemas en Valle Grande**: Con una gran pasión por la tecnología, la programación y la resolución de problemas complejos.
+- **🚀 Aprendiz de por Vida **: Siempre en busca de nuevas herramientas, metodologías y tendencias tecnológicas para seguir mejorando y aplicando en proyectos innovadores.
+-  **💡 Exploradora de Oportunidades **: Abierta a nuevos desafíos y colaboraciones que me permitan crecer profesionalmente y aportar valor al mundo del desarrollo de software.
 
 ---
 
@@ -71,8 +76,8 @@ Aquí te muestro un análisis dinámico de mi actividad en GitHub:
 ### 📊 **Estadísticas Generales de GitHub**
 ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=ValeryChumpitaz&show_icons=true&theme=radical)
 
-### 🔥 **Racha de Commits**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ValeryChumpitaz&theme=radical)
+### 🔥 **Racha de Commits**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ValeryGiselleChumpitazCaycho&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
